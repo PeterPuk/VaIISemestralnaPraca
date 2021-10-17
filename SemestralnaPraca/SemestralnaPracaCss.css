@@ -1,0 +1,64 @@
+
+body{
+  background-image: url("NikeAirMax95Essential.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+}
+.odstavec{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  line-height: 50px;
+}
+
+h1{
+  text-align: center;
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 80px;
+}
+
+strong{
+  font-size:45px;
+  font-weight: bolder;
+
+}
+
+p{
+  margin-bottom: 600px;
+}
+
+.zafarbeny{
+  background-color: white;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  list-style: none;
+}
+
+ul > li{
+  font-size: 30px;
+}
+
+li a:hover {
+  cursor:pointer;
+  color: black;
+  text-decoration: underline;
+}
+
+a{
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
