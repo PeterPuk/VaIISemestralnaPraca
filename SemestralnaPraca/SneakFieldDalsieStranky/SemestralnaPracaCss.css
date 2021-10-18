@@ -63,6 +63,13 @@ strong{
   display: block;
 }
 
+ul{
+  font-size:45px;
+  font-weight: bolder;
+  color:white;
+
+}
+
 
 .zafarbeny{
   border-top: white solid 3px;
@@ -86,6 +93,13 @@ ul{
 
 .prvaIkona{
   margin-left: 65px;
+}
+
+h3{
+  font-size: 50px;
+  font-weight: bolder;
+  color:#F3EBFC;
+  margin-left: 20px;
 }
 /*---------------Stylovanie footeru KONIEC --------*/
 

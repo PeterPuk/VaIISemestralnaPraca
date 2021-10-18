@@ -82,15 +82,19 @@ label{
     font-size: 30px;
 }
 
+
 input[type="submit"]{
     cursor: pointer;
-    width: 30%;
+    width: 40%;
     margin: auto;
+    background: #78747D;
+    border: 3px solid #E4DDED;
 }
 
 .obalovac{
     width: 50%;
     margin: auto;
+    margin-bottom: 150px;
 }
 
 h1{
@@ -98,4 +102,11 @@ h1{
     margin-left: 22%;
     font-size: 81px;
     color:#B6AFBD;
+}
+
+h3{
+    font-size: 50px;
+    font-weight: bolder;
+    color:#F3EBFC;
+    margin-left: 20px;
 }

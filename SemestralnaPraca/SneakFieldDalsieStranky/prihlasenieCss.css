@@ -59,7 +59,7 @@ ul{
 
 input:not([type="checkbox"]), /*vsetky ktore nie su typu checkbox*/
 textarea{
-    background: #fff;
+    background: #E4DDED;
     border:none;
     width: 300px;
     padding: 15px 20px;
@@ -88,6 +88,10 @@ label{
 
 input[type="submit"]{
     cursor: pointer;
+    width: 350px;
+    margin: auto;
+    background: #78747D;
+    border: 3px solid #E4DDED;
 }
 
 .obalovac{
@@ -107,6 +111,9 @@ h1{
     color:#B6AFBD;
 }
 
-.specialny{
-
+h3{
+    font-size: 50px;
+    font-weight: bolder;
+    color:#F3EBFC;
+    margin-left: 20px;
 }
