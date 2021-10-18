@@ -1,0 +1,101 @@
+body{
+    background-image: url("pozadie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+}
+/*---------------Stylovanie hlavicky --------*/
+
+a{
+    font-size:30px;
+    color:#F3EBFC;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline white;
+    color: white;
+}
+
+
+/*---------------Stylovanie hlavicky KONIEC --------*/
+
+/*---------------Stylovanie footeru --------*/
+strong{
+    font-size:45px;
+    font-weight: bolder;
+    color:white;
+    display: block;
+}
+
+
+.zafarbeny{
+    border-top: white solid 3px;
+}
+
+li{
+    font-size:30px;
+    color:#F3EBFC;
+    text-decoration: none;
+
+}
+
+ul{
+    list-style: none;
+}
+
+.float{
+    float:left;
+    margin-right: 25px;
+}
+
+.prvaIkona{
+    margin-left: 65px;
+}
+/*---------------Stylovanie footeru KONIEC --------*/
+/*---------------HLAVNY OBSAH------------*/
+
+
+/*vsetky ktore nie su typu checkbox*/
+input:not([type="checkbox"]){
+    background: #fff;
+    border:none;
+    width: 300px;
+    height:80px;
+    padding: 15px 20px;
+    margin: 20px;
+    border-radius: 5px;
+    background: #E4DDED;
+}
+
+input:focus{
+    outline: black 8px solid;
+}
+
+label{
+    cursor: pointer;
+    display: block;
+    text-align: left;
+    padding-left: 0;
+    color:#B6AFBD;
+    font-size: 30px;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+    width: 30%;
+    margin: auto;
+}
+
+.obalovac{
+    width: 50%;
+    margin: auto;
+}
+
+h1{
+    text-transform: uppercase;
+    margin-left: 22%;
+    font-size: 81px;
+    color:#B6AFBD;
+}
