@@ -16,10 +16,9 @@ a{
 }
 
 a:hover{
-  text-decoration: underline white;
+  text-decoration: black;
   color: white;
 }
-
 
 /*---------------Stylovanie hlavicky KONIEC --------*/
 
@@ -56,16 +55,9 @@ p{
 
 
 /*---------------Stylovanie footeru --------*/
-strong{
-  font-size:45px;
-  font-weight: bolder;
-  color:white;
-  display: block;
-}
 
 ul{
   font-size:45px;
-  font-weight: bolder;
   color:white;
 
 }
@@ -91,9 +83,6 @@ ul{
   margin-right: 25px;
 }
 
-.prvaIkona{
-  margin-left: 65px;
-}
 
 h3{
   font-size: 50px;
