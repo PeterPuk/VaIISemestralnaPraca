@@ -61,7 +61,7 @@ ul{
 input:not([type="checkbox"]){
     background: #fff;
     border:none;
-    width: 300px;
+    width: 250px;
     height:80px;
     padding: 15px 20px;
     margin: 20px;
@@ -85,21 +85,14 @@ label{
 
 input[type="submit"]{
     cursor: pointer;
-    width: 40%;
-    margin: auto;
     background: #78747D;
     border: 3px solid #E4DDED;
 }
 
-.obalovac{
-    width: 50%;
-    margin: auto;
-    margin-bottom: 150px;
-}
 
 h1{
     text-transform: uppercase;
-    margin-left: 22%;
+    text-align: center;
     font-size: 81px;
     color:#B6AFBD;
 }
@@ -110,3 +103,20 @@ h3{
     color:#F3EBFC;
     margin-left: 20px;
 }
+
+select{
+    width: 250px;
+    height:80px;
+    font-size: 30px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    background: #E4DDED;
+    margin: 20px;
+}
+
+@media only screen and (max-width: 794px) {
+    h1{
+        font-size: 40px;
+    }
+}
+

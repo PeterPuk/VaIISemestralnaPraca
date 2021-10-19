@@ -95,14 +95,11 @@ input[type="submit"]{
 }
 
 .obalovac{
-    width: 50%;
-    margin: auto;
-}
-
-form{
     width: 300px;
     margin: auto;
 }
+
+
 
 h1{
     text-align: center;
