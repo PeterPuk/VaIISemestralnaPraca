@@ -14,7 +14,7 @@ a{
 }
 
 a:hover{
-    text-decoration: underline white;
+    text-decoration: underline;
     color: white;
 }
 
@@ -85,6 +85,7 @@ input[type="submit"]{
     cursor: pointer;
     background: #78747D;
     border:5px solid #F3EBFC;
+    font-size: 30px;
 }
 
 

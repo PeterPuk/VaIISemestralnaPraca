@@ -14,7 +14,7 @@ a{
 }
 
 a:hover{
-    text-decoration: underline white;
+    text-decoration: underline;
     color: white;
 }
 
@@ -91,6 +91,7 @@ input[type="submit"]{
     margin: auto;
     background: #78747D;
     border: 3px solid #E4DDED;
+    font-size: 35px;
 }
 
 .obalovac{
